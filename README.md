@@ -14,3 +14,18 @@ Este foi um desafio solicitado pelo Curso da Cubos Academy - Desenvolvimento de 
 - Mudança de tema
 
 Os dados do website serão requisitados da [seguinte API](https://tmdb-proxy.cubos-academy.workers.dev/3/)
+
+
+## Detalhamento da Aplicação
+
+### Página Principal
+
+![](https://i.imgur.com/9adDaUq.png)
+
+### Modo Escuro
+
+![](https://i.imgur.com/C8fq3H5.png)
+
+### Modal Filmes
+
+![](https://i.imgur.com/BHRNMds.png)
